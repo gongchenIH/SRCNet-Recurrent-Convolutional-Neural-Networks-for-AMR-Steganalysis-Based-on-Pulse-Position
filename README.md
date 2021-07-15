@@ -4,7 +4,7 @@
 
 ​        现有固定码本自适应隐写算法可以有效抵抗隐写分析的攻击。我们以RNN和CNN构建固定码本的隐写分析网络，以脉冲位置作为网络的输入，该网络取得了较好的攻击性能。 网络结构参考下图。
 
-![image](https://github.com/gongchenIH/Pic/blob/master/Spectrum_compare.png)
+![image](https://github.com/gongchenIH/Pic/blob/master/SRCNet.png)
 
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3335203.3335708)[[code]](https://github.com/gongchenIH/Speech-Steganography-in-Compressed-Domian/blob/main/2-Steganalysis/2.2-FCB_Steganalysis/Python/SRCNet.py)
 
